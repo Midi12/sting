@@ -1,0 +1,4 @@
+name: sting
+dependencies:
+  win32: ^1.7.4+1
+  args: ^1.6.0

@@ -1,0 +1,6 @@
+*.exe
+*.dll
+*.lock
+.dart_tool/
+.packages
+.vscode/
